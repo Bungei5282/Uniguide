@@ -1,0 +1,6 @@
+{
+  "name": "UniGuide AI - Student Resource & Academic Hub",
+  "description": "Official 24/7 university companion for academic performance tracking, degree audits, course registration, financial aid, and campus life engagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
